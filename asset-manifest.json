@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9358a1da.js",
+    "static/media/pink-flower.jpg": "/static/media/pink-flower.0c92cc2309aeada00fc4.jpg",
+    "index.html": "/index.html",
+    "main.9358a1da.js.map": "/static/js/main.9358a1da.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9358a1da.js"
+  ]
+}
